@@ -49,4 +49,4 @@ Welcome to the ** youth_care_application**, where users can easily manage their 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tournament-registration-app.git
+   git clone https://github.com/yourusername/ youth_care_application.git
