@@ -5,6 +5,13 @@
 
 Welcome to the ** youth_care_application**, where users can easily manage their tournament participation, view events, and stay connected with instructors and admins. This app is designed to help users sign up, sign in, and engage with various features throughout the tournament process.
 
+![image](https://github.com/user-attachments/assets/f66ed8a7-e822-47cc-a6d1-f54c35f3a3fb)
+![image](https://github.com/user-attachments/assets/72176731-9243-4b77-a142-b6d257abdd8e)
+![image](https://github.com/user-attachments/assets/76b8425d-c16e-4f24-a981-2b1ad9ced9c5)
+![image](https://github.com/user-attachments/assets/0d92f560-00db-40be-aeed-461b47d245e0)
+![image](https://github.com/user-attachments/assets/d8ef2bc3-bb4b-43a4-90f9-fa9f8a087460)
+
+
 ### Key Features
 
 - **Sign-Up Module**:  
