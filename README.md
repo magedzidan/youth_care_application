@@ -6,11 +6,11 @@
 Welcome to the ** youth_care_application**, where users can easily manage their tournament participation, view events, and stay connected with instructors and admins. This app is designed to help users sign up, sign in, and engage with various features throughout the tournament process.
 
 
-<img src="https://github.com/user-attachments/assets/73a0e5c2-0240-4781-b65b-f659f3b60790" width="500" height="500" />
-<img src="https://github.com/user-attachments/assets/5d1b6ba3-7cf9-4625-adff-f1fabe48092d" width="500" height="500" />
-<img src="https://github.com/user-attachments/assets/cfc07a9b-b1b8-49e3-bffe-eafcd65837cb" width="500" height="500"/>
-<img src="https://github.com/user-attachments/assets/870fc15a-b783-4b2d-b208-33735cd8c8f7" width="500" height="500" />
-<img src="https://github.com/user-attachments/assets/2c44ae6a-9f22-4f64-b56f-01a91ca30079" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/73a0e5c2-0240-4781-b65b-f659f3b60790" width="500" height="600" />
+<img src="https://github.com/user-attachments/assets/5d1b6ba3-7cf9-4625-adff-f1fabe48092d" width="500" height="600" />
+<img src="https://github.com/user-attachments/assets/cfc07a9b-b1b8-49e3-bffe-eafcd65837cb" width="500" height="600"/>
+<img src="https://github.com/user-attachments/assets/870fc15a-b783-4b2d-b208-33735cd8c8f7" width="500" height="600" />
+<img src="https://github.com/user-attachments/assets/2c44ae6a-9f22-4f64-b56f-01a91ca30079" width="500" height="600" />
 
 
 
